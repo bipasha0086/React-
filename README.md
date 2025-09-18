@@ -64,3 +64,33 @@ It also uses basic styling to keep the interface **centered** with a **light blu
 
 ---
 
+# React Person Class Hierarchy Demo
+
+## Overview
+This React project demonstrates **object-oriented programming (OOP) concepts** using JavaScript classes inside a React app.  
+It models a **Person base class** with `Student` and `Teacher` subclasses and renders them dynamically with interactive UI cards.  
+
+✅ Learn about:
+- JavaScript class inheritance
+- Method overriding (`getInfo()` and `introduce()`)
+- Dynamic rendering with React `.map()`
+- CSS hover effects and animations
+- Interactive UI elements
+
+---
+
+## Features
+- **Person Class**: Base class with `name` and `age` properties.  
+- **Student Subclass**: Adds `course` property and `introduce()` method.  
+- **Teacher Subclass**: Adds `subject` property and `introduce()` method.  
+- **Interactive UI**: Hover effects, scale animations, and expandable “Intro” messages.  
+- **Dynamic Rendering**: Easily render multiple students and teachers from arrays.  
+
+---
+
+## Screenshot
+
+![App Screenshot](screenshots/Screenshot 2025-09-18 223135.png)
+
+
+
