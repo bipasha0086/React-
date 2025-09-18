@@ -60,10 +60,10 @@ It also uses basic styling to keep the interface **centered** with a **light blu
 ## 📷 Screenshots
 
 ### Main Interface
-![Screenshot 1](./screenshots/Screenshot%202025-09-18%20221357.png)
+![Screenshot 1](./screenshots/main-interface.png)
 
 ### Adding & Removing Books
-![Screenshot 2](./screenshots/Screenshot%202025-09-18%20221413.png)
+![Screenshot 2](./screenshots/add-remove-books.png)
 
 ---
 
