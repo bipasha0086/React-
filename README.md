@@ -90,7 +90,8 @@ It models a **Person base class** with `Student` and `Teacher` subclasses and re
 
 ## Screenshot
 
-![App Screenshot](screenshots/Screenshot 2025-09-18 223135.png)
+![App Screenshot](Screenshot%202025-09-18%20223135.png)
+
 
 
 
