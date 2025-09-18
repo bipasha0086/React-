@@ -26,10 +26,7 @@ product-card-app/
 │
 ├── public/
 │
-├── assets/
-│   └── Screenshot 2025-09-18 155940.png
-│
 └── README.md
 ##Screenshot
 
-![Product Card Screenshot](./assets/Screenshot%202025-09-18%20155940.png)
+![Product Card Screenshot](./Screenshot%202025-09-18%20155940.png)
