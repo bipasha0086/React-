@@ -1,0 +1,70 @@
+/* Full screen background */
+.app {
+  background-color: lightblue;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+}
+
+/* Card container */
+.card {
+  background: white;
+  padding: 20px 30px;
+  border-radius: 12px;
+  width: 450px;
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+/* Person box */
+.person-box {
+  margin: 15px 0;
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  background: #f9f9f9;
+  transition: background 0.3s ease, transform 0.3s ease;
+}
+
+.person-box:hover {
+  background: #eef7ff;
+  transform: scale(1.02);
+}
+
+.person-box h3 {
+  margin-bottom: 8px;
+  color: #333;
+}
+
+/* Intro text */
+.intro {
+  font-style: italic;
+  color: #555;
+  margin-top: 10px;
+  transition: opacity 0.4s ease-in-out;
+}
+
+/* Button */
+.toggle-btn {
+  background: #0077cc;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  margin-top: 8px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background 0.3s ease;
+}
+
+.toggle-btn:hover {
+  background: #005fa3;
+}
