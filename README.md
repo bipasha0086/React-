@@ -27,6 +27,7 @@ product-card-app/
 ├── public/
 │
 └── README.md
+
 -----
 ## Screenshot
 
