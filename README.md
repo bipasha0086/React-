@@ -64,11 +64,3 @@ It also uses basic styling to keep the interface **centered** with a **light blu
 
 ---
 
-## 🛠️ Installation & Setup
-
-```bash
-git clone https://github.com/your-username/library-management.git
-cd library-management
-npm install
-npm start
-
